@@ -22,7 +22,7 @@ React Shopping Cart Sample with Redux
 * First clone the repository
 
 ```
-git clone git@github.com:rehagursel/react-restaurant-order-app.git
+git clone git@github.com:rehagursel/react-redux-shopping-cart.git
 ```
 
 * Then go to the local directory and run below commands
